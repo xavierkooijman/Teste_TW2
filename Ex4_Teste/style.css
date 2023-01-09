@@ -1,0 +1,17 @@
+@media screen and (max-width: 500px) {
+    div{
+        background-color: black !important;
+    }
+}
+
+@media screen and (min-width:501px) and (max-width:800px) {
+    div{
+        background-color: red !important;
+    }
+}
+
+@media screen and (min-width:801px) {
+    div{
+        background-color: yellow !important;
+    }
+}
